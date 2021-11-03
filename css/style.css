@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 6em;
+    background-color: chocolate;
+}
